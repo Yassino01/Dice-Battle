@@ -3,7 +3,7 @@
 Deux joueurs s'afrontent dans un jeu de dés. Le but est d'être le premier à atteindre au moins N points (généralement N = 100). A chaque tour, on choisit de lancer entre 1 et D dés à six faces (par exemple, D = 10). Le nombre de points marqués est 1 si l'un des dés au moins tombe sur 1, dans le cas contraire c'est la somme des dés. Nous allons étudier deux variantes de ce jeu :
 
 p align="center">
-  <img src="imgs/dice.jpg" width="640" title=" Dice ">
+  <img src="imgs/dice.jpg" width="340" title=" Dice ">
 </p>
 
 
